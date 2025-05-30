@@ -1,2 +1,14 @@
 - gia to xView dataset:
-trexw prwta to convert
+trexw prwta to convert_xview.py
+an thelw na treksw mono gia sugkekrimenes klaseis tote eite kane adjust to convert_xview.py
+eite meta ftiaxnw ena script pou na kanei delete tis klaseis pou de thelw ap ta .txt twn labels
+
+an thelw na kanw preprocessing (crop resize ktl, to yolo den exei kati, xrhsimopoiw to split.py apo to mmrotate
+https://github.com/open-mmlab/mmrotate/blob/main/tools/data/dota/README.md
+
+
+
+
+
+
+
